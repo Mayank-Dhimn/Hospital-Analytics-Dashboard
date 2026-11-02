@@ -1,0 +1,9 @@
+department_id,department_name,floor_no,total_beds
+1,Cardiology,2,40
+2,Orthopedics,3,45
+3,Neurology,4,30
+4,Pediatrics,1,35
+5,General Medicine,1,60
+6,Gynecology,2,30
+7,Emergency,0,25
+8,Oncology,5,25

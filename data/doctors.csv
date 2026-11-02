@@ -1,0 +1,34 @@
+doctor_id,doctor_name,gender,department_id,specialization,experience_years,phone
+1,Dr. Amit Jain,Male,1,Interventional Cardiologist,20,9139986987
+2,Dr. Riya Sharma,Female,1,Cardiac Surgeon,23,9114170753
+3,Dr. Sneha Bhatia,Female,1,Cardiologist,15,9681518844
+4,Dr. Simran Thakur,Female,1,Interventional Cardiologist,13,9055761698
+5,Dr. Neha Gill,Female,1,Cardiac Surgeon,20,9976846978
+6,Dr. Rajesh Bansal,Male,2,Orthopedic Surgeon,28,9208196727
+7,Dr. Arjun Sandhu,Male,2,Spine Specialist,25,9784864887
+8,Dr. Komal Mehta,Female,2,Sports Injury Specialist,13,9400297875
+9,Dr. Gurpreet Dhillon,Male,2,Orthopedic Surgeon,18,9876804571
+10,Dr. Tanvi Jain,Female,2,Spine Specialist,12,9726714751
+11,Dr. Nikhil Gill,Male,3,Neurologist,8,9701079819
+12,Dr. Harpreet Verma,Male,3,Neurosurgeon,23,9084520599
+13,Dr. Tanvi Gupta,Female,3,Neurologist,21,9379298416
+14,Dr. Rohan Thakur,Male,4,Pediatrician,13,9866283601
+15,Dr. Priya Singh,Female,4,Neonatologist,30,9550087547
+16,Dr. Neha Dhillon,Female,4,Pediatrician,18,9992298369
+17,Dr. Nisha Rana,Female,4,Neonatologist,11,9186032080
+18,Dr. Ravneet Mehta,Female,5,Physician,19,9028382226
+19,Dr. Komal Aggarwal,Female,5,Diabetologist,17,9164252477
+20,Dr. Manpreet Sandhu,Female,5,Infectious Disease Specialist,9,9587718841
+21,Dr. Harpreet Sharma,Male,5,Physician,6,9756820525
+22,Dr. Arjun Rana,Male,5,Diabetologist,26,9489394948
+23,Dr. Arjun Chopra,Male,5,Infectious Disease Specialist,7,9621052185
+24,Dr. Sunita Kaur,Female,6,Gynecologist,13,9524410646
+25,Dr. Vivaan Verma,Male,6,Obstetrician,11,9041189557
+26,Dr. Vikas Sethi,Male,6,Gynecologist,23,9397615846
+27,Dr. Anjali Singh,Female,7,Emergency Physician,27,9604541465
+28,Dr. Suresh Sethi,Male,7,Trauma Specialist,10,9801291102
+29,Dr. Preeti Arora,Female,7,Emergency Physician,4,9692566636
+30,Dr. Tarun Gupta,Male,7,Trauma Specialist,9,9808864230
+31,Dr. Gurpreet Aggarwal,Male,8,Medical Oncologist,19,9645291280
+32,Dr. Harleen Jain,Female,8,Surgical Oncologist,28,9500370382
+33,Dr. Tanvi Bhatia,Female,8,Radiation Oncologist,29,9384535577
